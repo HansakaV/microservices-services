@@ -1,9 +1,9 @@
 [submodule "labour-service"]
 	path = labour-service
-	url = ./labour-service
+	url = https://github.com/HansakaV/labour-service.git
 [submodule "bus-service"]
 	path = bus-service
-	url = ./bus-service
+	url = https://github.com/HansakaV/bus-service.git
 [submodule "booking-service"]
 	path = booking-service
-	url = ./booking-service
+	url = https://github.com/HansakaV/booking-service.git
