@@ -1,0 +1,9 @@
+[submodule "labour-service"]
+	path = labour-service
+	url = ./labour-service
+[submodule "bus-service"]
+	path = bus-service
+	url = ./bus-service
+[submodule "booking-service"]
+	path = booking-service
+	url = ./booking-service
