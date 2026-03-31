@@ -5,7 +5,7 @@ This repository contains the business logic microservices for the Bus Depot Mana
 ## Student Information
 - **Name:** Mahesh Hansaka
 - **Student Number:** 2301691104
-- **GCP Project ID:** project-a328dfec-018f-4204-865
+- **GCP Project ID:** bus-depot-management-491905 
 
 ## Microservices
 1. **Labour Service**: Handles employee management (MySQL).
@@ -13,7 +13,7 @@ This repository contains the business logic microservices for the Bus Depot Mana
 3. **Booking Service**: Manages passenger bookings (MySQL).
 
 ## Technology Stack
-- Java 25
+- Java 
 - Spring Boot
 - Spring Data JPA / MongoDB
 - Google Cloud Storage SDK
